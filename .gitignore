@@ -1,0 +1,47 @@
+.chalice/deployments/
+.chalice/venv/
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/vbloiseResume3Ui/dist
+/vbloiseResume3Ui/tmp
+/vbloiseResume3Ui/out-tsc
+
+# dependencies
+/vbloiseResume3Ui/node_modules
+
+# profiling files
+/vbloiseResume3Ui/chrome-profiler-events.json
+/vbloiseResume3Ui/speed-measure-plugin.json
+
+# IDEs and editors
+/vbloiseResume3Ui/.idea
+/vbloiseResume3Ui/.project
+/vbloiseResume3Ui/.classpath
+/vbloiseResume3Ui/.c9/
+/vbloiseResume3Ui/*.launch
+/vbloiseResume3Ui/.settings/
+/vbloiseResume3Ui/*.sublime-workspace
+
+# IDE - VSCode
+/vbloiseResume3Ui/.vscode/*
+/vbloiseResume3Ui/!.vscode/settings.json
+/vbloiseResume3Ui/!.vscode/tasks.json
+/vbloiseResume3Ui/!.vscode/launch.json
+/vbloiseResume3Ui/!.vscode/extensions.json
+
+# misc
+/vbloiseResume3Ui/.sass-cache
+/vbloiseResume3Ui/connect.lock
+/vbloiseResume3Ui/coverage
+/vbloiseResume3Ui/libpeerconnection.log
+/vbloiseResume3Ui/npm-debug.log
+/vbloiseResume3Ui/yarn-error.log
+/vbloiseResume3Ui/testem.log
+/vbloiseResume3Ui/typings
+
+# System Files
+/vbloiseResume3Ui/.DS_Store
+/vbloiseResume3Ui/Thumbs.db
+/vbloiseResume3Ui/.oldgit
