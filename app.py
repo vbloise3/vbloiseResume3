@@ -3,11 +3,14 @@ from chalice import Chalice
 app = Chalice(app_name='vbloiseResume3')
 
 
-@app.route('/')
+@app.route('/', cors=True)
 def index():
     return {'hello': 'Vince\'s world'}
 
 
+@app.route('/email/{email}/password/{password}', cors=True)
+def hello_email_password(email, password):
+    return {'email': email, 'password': password}
 # The view function above will return {"hello": "world"}
 # whenever you make an HTTP GET request to '/'.
 #
