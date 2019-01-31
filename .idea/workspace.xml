@@ -2,112 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/AnswerFormStructure.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/QandAStructure.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/additionalExamItems_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/amiElb_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/applicationServices_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/cloudWatch_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/databasesIII_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/databasesII_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/databases_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2101Part2_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2101_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2EbsVolumeTypes_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2EfsEbsLambda_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2InstanceSetup.bash" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2Instances_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/ec2PlacementGroups_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/efsLambda_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/faqs1_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/fifthQuestions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/firstQuestion.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/firstQuestions_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/fourthQuestion.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/lifeCycleManagementandCloudFront_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/raidVolumesAndSnapshots_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/route53DNS_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/s3CrossRegionReplication_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/s3Review_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/s3SecurityandEncryption_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/secondQuestions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/secondQuestions_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/sixthQuestions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/snowballAndTransferAcceleration_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/storageGateway_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/temp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples10_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples1_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples2_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples3_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples4_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples5_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples6_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples7_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples8_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testExamples9_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/testNulls.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/test_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/thirdQuestions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/vpc101B_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/vpc101C_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/vpc101_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Lambda json/whitePapersAndSummary_arch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/AWS_Certified_Logo_294x230_Color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/VinceBloiseTransparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/json/moviedata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scripts/parseNulls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/VinceBloise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/VinceBloiseTransparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.routing.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/page-not-found/page-not-found.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/page-not-found/page-not-found.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/page-not-found/page-not-found.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/page-not-found/page-not-found.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/AgainstTheDay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/CTomMcCarthy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/GoodReads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/GravitysRainbow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/Longboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/MountainBiking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/Paddleboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/Snowboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/Underworld.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/VinceBloiseTransparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/WhiteNoise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/test/test.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/test/test.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/test/test.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/test/test.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/styles.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -131,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appComponent.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -173,12 +78,15 @@
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/package.json" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/index.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/styles.scss" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.html" />
       </list>
     </option>
   </component>
@@ -258,15 +166,7 @@
               <item name="vbloiseResume3Ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="app.component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vbloiseResume3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vbloiseResume3" type="462c0819:PsiDirectoryNode" />
-              <item name="vbloiseResume3Ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="personalInterests.component" type="462c0819:PsiDirectoryNode" />
+              <item name="appComponent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548534438348</updated>
       <workItem from="1548620991655" duration="3188000" />
-      <workItem from="1548958225666" duration="3895000" />
+      <workItem from="1548958225666" duration="5921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7329000" />
+    <option name="totallyTimeSpent" value="9355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1894" height="978" extended-state="0" />
@@ -361,36 +261,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/dist/vbloiseResume3Ui/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -561,24 +431,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3825">
           <caret line="255" column="19" selection-start-line="255" selection-start-column="19" selection-end-line="255" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-824">
-          <caret line="277" column="19" selection-start-line="277" selection-start-column="19" selection-end-line="277" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -618,6 +474,30 @@
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component3.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-toolbar#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -633,24 +513,44 @@
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component3.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#mat-toolbar#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
