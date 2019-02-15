@@ -31,17 +31,6 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "src/chalice-javascript-sdk/lib/axios/dist/axios.standalone.js",
-              "src/chalice-javascript-sdk/lib/CryptoJS/rollups/hmac-sha256.js",
-              "src/chalice-javascript-sdk/lib/CryptoJS/rollups/sha256.js",
-              "src/chalice-javascript-sdk/lib/CryptoJS/components/hmac.js",
-              "src/chalice-javascript-sdk/lib/CryptoJS/components/enc-base64.js",
-              "src/chalice-javascript-sdk/lib/url-template/url-template.js",
-              "src/chalice-javascript-sdk/lib/apiGatewayCore/sigV4Client.js",
-              "src/chalice-javascript-sdk/lib/apiGatewayCore/apiGatewayClient.js",
-              "src/chalice-javascript-sdk/lib/apiGatewayCore/simpleHttpClient.js",
-              "src/chalice-javascript-sdk/lib/apiGatewayCore/utils.js",
-              "src/chalice-javascript-sdk/apigClient.js",
               "src/test.js"
             ]
           },
