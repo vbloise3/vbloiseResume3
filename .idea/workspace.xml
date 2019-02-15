@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/apigClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/components/enc-base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/components/hmac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/rollups/hmac-sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/rollups/sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/apiGatewayClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/sigV4Client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/simpleHttpClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/axios/dist/axios.standalone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/chalice-javascript-sdk/lib/url-template/url-template.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,20 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="angular.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="angular.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/angular.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="-61">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -98,12 +110,12 @@
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/index.html" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/styles.scss" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" />
       </list>
     </option>
   </component>
@@ -237,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14183000" />
+    <option name="totallyTimeSpent" value="14636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1894" height="978" extended-state="0" />
@@ -247,8 +259,8 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3280363" />
-      <window_info anchor="bottom" id="TypeScript" order="9" visible="true" weight="0.3291714" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3280363" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3291714" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25809935" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -543,31 +555,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2023">
           <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -580,8 +571,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/angular.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="-61">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
