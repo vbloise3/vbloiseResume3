@@ -129,12 +129,12 @@ export class Material2AppAppComponent implements AfterViewInit {
 @Component({
     template: `
       
-          <mat-toolbar color="primary" style="height: 3.15em; width: 114%; margin-left: -1em; margin-top: -1em;">            
+          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">            
               <img class="mdCardSmallDialogImg transparentProfilePic">
               <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>            
           </mat-toolbar>
           <table>
-              <tr>
+              <tr [class.App-buttons-mobile]='deviceWidthCss == "App-name-mobile"'>
                 <td><a href="mailto:vbloise3@gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>vbloise3@gmail.com</a></td>
                 <td><a href="tel:484-433-3269" style="color: blue"><i class="material-icons md-18 iconBottom">phone_iphone</i>484-433-3269</a></td>
               </tr>
@@ -146,5 +146,16 @@ export class Material2AppAppComponent implements AfterViewInit {
   `,
 })
 export class DialogContent {
-    constructor(@Optional() public dialogRef: MatDialogRef<DialogContent>) { }
+  deviceWidthCss = '';
+  componentDidMount() {
+    // set mobile layout
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+      this.deviceWidthCss = "App-name-mobile";
+    } else {
+      this.deviceWidthCss = "App-name";
+    }
+  }
+    constructor(@Optional() public dialogRef: MatDialogRef<DialogContent>) {
+    this.componentDidMount();
+    }
 }

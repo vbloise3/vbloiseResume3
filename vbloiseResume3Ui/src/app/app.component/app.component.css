@@ -360,3 +360,17 @@ div.colored > div:nth-child(7), .seven {
   background-color: #FF5722;
 }
 /* ------------------End fxLayout Example Styles----------------------- */
+
+/* stuff for dialog */
+.App-buttons {
+  display: inline-block;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 5;
+}
+
+.App-buttons-mobile {
+  font-size: x-small;
+}
+
