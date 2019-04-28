@@ -156,6 +156,6 @@ export class DialogContent {
     }
   }
     constructor(@Optional() public dialogRef: MatDialogRef<DialogContent>) {
-    this.componentDidMount();
+      this.componentDidMount();
     }
 }

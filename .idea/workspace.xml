@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,35 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="156" column="3" lean-forward="true" selection-start-line="148" selection-start-column="2" selection-end-line="156" selection-end-column="3" />
-              <folding>
-                <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="personalInterests.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/angular.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="143">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -73,8 +48,8 @@
       <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -91,9 +66,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mbloise</find>
+      <find>7.1.0</find>
     </findStrings>
     <replaceStrings>
       <replace>vbloise</replace>
+      <replace>7.2.4</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -108,20 +85,19 @@
         <option value="$PROJECT_DIR$/notes.txt" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.routing.ts" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/package.json" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/index.html" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/styles.scss" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/appComponent/appComponent.html" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" />
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" />
-        <option value="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" />
+        <option value="$PROJECT_DIR$/vbloiseResume3Ui/package.json" />
       </list>
     </option>
   </component>
@@ -159,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,23 +177,15 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vbloiseResume3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vbloiseResume3" type="462c0819:PsiDirectoryNode" />
-              <item name="vbloiseResume3Ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="personalInterests.component" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -259,11 +228,17 @@
       <workItem from="1548958225666" duration="8376000" />
       <workItem from="1549414630520" duration="590000" />
       <workItem from="1549836196835" duration="1233000" />
+      <workItem from="1551405186821" duration="19000" />
+      <workItem from="1553026256000" duration="597000" />
+      <workItem from="1553039410074" duration="429000" />
+      <workItem from="1553040707067" duration="559000" />
+      <workItem from="1553167847210" duration="590000" />
+      <workItem from="1553810225473" duration="570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15417000" />
+    <option name="totallyTimeSpent" value="17499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1894" height="978" extended-state="0" />
@@ -271,22 +246,23 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3280363" />
-      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3291714" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25809935" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32792583" />
+      <window_info anchor="bottom" id="TypeScript" order="9" visible="true" weight="0.3291714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28509718" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="aws.explorer" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25809935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28779697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -301,7 +277,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3280363" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32792583" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
@@ -310,17 +286,18 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/vbloiseResume3Ui/node_modules/karma/config.tpl.js" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
       </list>
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -369,6 +346,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2023">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="136" column="61" selection-start-line="136" selection-start-column="61" selection-end-line="136" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -383,27 +381,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2023">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1371">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -424,6 +405,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/page-not-found/page-not-found.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
@@ -476,17 +464,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -544,6 +532,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -555,6 +550,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2023">
           <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="136" column="61" selection-start-line="136" selection-start-column="61" selection-end-line="136" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -572,6 +574,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -579,44 +588,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/buildDeploy.sh">
+    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="319" lean-forward="true" selection-start-line="319" selection-end-line="319" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="375" lean-forward="true" selection-start-line="375" selection-end-line="375" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="156" column="3" lean-forward="true" selection-start-line="148" selection-start-column="2" selection-end-line="156" selection-end-column="3" />
-          <folding>
-            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="143">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
         </state>
       </provider>
     </entry>
