@@ -29,8 +29,8 @@
       <file leaf-file-name="app.component2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="93" column="32" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
+            <state relative-caret-position="299">
+              <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -236,12 +236,12 @@
       <workItem from="1558570059280" duration="1831000" />
       <workItem from="1561911076063" duration="491000" />
       <workItem from="1562529107592" duration="522000" />
-      <workItem from="1564343118190" duration="434000" />
+      <workItem from="1564343118190" duration="756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21657000" />
+    <option name="totallyTimeSpent" value="21979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="999" extended-state="6" />
@@ -251,9 +251,9 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.39800444" />
-      <window_info anchor="bottom" id="TypeScript" order="9" visible="true" weight="0.32815966" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4025559" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39800444" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32815966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4025559" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -587,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="93" column="32" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
+        <state relative-caret-position="299">
+          <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
         </state>
       </provider>
     </entry>
