@@ -296,6 +296,10 @@ ul {
   content: url("MountainBiking.png");
 }
 
+.oneWheelPic {
+  content: url("RidingOneWheel.jpg")
+}
+
 .inlineDiv {
     display: inline-block;
 }
