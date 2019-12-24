@@ -1,23 +1,23 @@
 {
-  "schema_version": "2.0",
   "resources": [
     {
-      "role_name": "vbloiseResume3-dev",
-      "role_arn": "arn:aws:iam::001178231653:role/vbloiseResume3-dev",
       "name": "default-role",
-      "resource_type": "iam_role"
+      "resource_type": "iam_role",
+      "role_arn": "arn:aws:iam::001178231653:role/vbloiseResume3-dev",
+      "role_name": "vbloiseResume3-dev"
     },
     {
-      "lambda_arn": "arn:aws:lambda:us-east-2:001178231653:function:vbloiseResume3-dev",
       "name": "api_handler",
-      "resource_type": "lambda_function"
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:us-east-1:001178231653:function:vbloiseResume3-dev"
     },
     {
       "name": "rest_api",
-      "rest_api_id": "l7k53zj5ag",
-      "rest_api_url": "https://l7k53zj5ag.execute-api.us-east-2.amazonaws.com/api/",
-      "resource_type": "rest_api"
+      "resource_type": "rest_api",
+      "rest_api_id": "bf1knq8bqa",
+      "rest_api_url": "https://bf1knq8bqa.execute-api.us-east-1.amazonaws.com/api/"
     }
   ],
+  "schema_version": "2.0",
   "backend": "api"
 }

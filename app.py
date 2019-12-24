@@ -5,7 +5,7 @@ app = Chalice(app_name='vbloiseResume3')
 
 @app.route('/', cors=True)
 def index():
-    return {'hello': 'Vince\'s world'}
+    return {'hello': 'Vince\'s world, mo fo!'}
 
 
 @app.route('/email/{email}/password/{password}', cors=True)
