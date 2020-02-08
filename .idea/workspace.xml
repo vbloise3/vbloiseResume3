@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.chalice/deployed/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.chalice/deployed/dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/data.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,23 +21,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>mbloise</find>
-      <find>7.1.0</find>
-      <find>8.0.1</find>
-      <find>debug</find>
-      <find>8.2.3</find>
-      <find>8.2.5</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>vbloise</replace>
-      <replace>7.2.4</replace>
-      <replace>8.2.3</replace>
-      <replace>8.2.5</replace>
-      <replace>8.2.13</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,7 +114,12 @@
       <workItem from="1573001792851" duration="1341000" />
       <workItem from="1574621616017" duration="597000" />
       <workItem from="1577070278979" duration="251000" />
-      <workItem from="1577116592944" duration="995000" />
+      <workItem from="1577116592944" duration="1718000" />
+      <workItem from="1578346842903" duration="290000" />
+      <workItem from="1579045363377" duration="294000" />
+      <workItem from="1579972299517" duration="444000" />
+      <workItem from="1580691630984" duration="306000" />
+      <workItem from="1580926801274" duration="2827000" />
     </task>
     <servers />
   </component>
@@ -136,14 +127,14 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
-        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
-        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
-        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
-        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
-        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
-        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
-        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.js" />
+        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.js" />
       </list>
     </option>
   </component>

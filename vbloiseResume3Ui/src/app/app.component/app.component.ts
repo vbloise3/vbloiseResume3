@@ -2,7 +2,9 @@
  * Created by vincebloise on 1/25/17.
  */
 import {Component, ElementRef, Optional, ViewEncapsulation, AfterViewInit} from '@angular/core';
-import {MatDialog, MatDialogRef, MatSnackBar} from '@angular/material';
+import { MatDialog } from '@angular/material/dialog';
+import { MatDialogRef } from '@angular/material/dialog';
+import { MatSnackBar } from '@angular/material/snack-bar';
 import { HttpClient } from '@angular/common/http';
 // import 'rxjs/add/operator/map';
 // import 'rxjs/add/operator/catch';
@@ -128,10 +130,10 @@ export class Material2AppAppComponent implements AfterViewInit {
 
 @Component({
     template: `
-      
-          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">            
+
+          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">
               <img class="mdCardSmallDialogImg transparentProfilePic">
-              <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>            
+              <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>
           </mat-toolbar>
           <table>
               <tr [class.App-buttons-mobile]='deviceWidthCss == "App-name-mobile"'>
@@ -142,7 +144,7 @@ export class Material2AppAppComponent implements AfterViewInit {
           <div class="centerIt2">
               <button mat-raised-button (click)="dialogRef.close('done')">Done</button>
           </div>
-        
+
   `,
 })
 export class DialogContent {

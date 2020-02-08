@@ -3,7 +3,10 @@
  */
 
 import {Component, Optional, ViewEncapsulation, ElementRef, AfterViewInit} from '@angular/core';
-import {MatDialog, MatDialogRef, MatSnackBar, MatSidenav} from '@angular/material';
+import { MatDialog } from '@angular/material/dialog';
+import { MatDialogRef } from '@angular/material/dialog';
+import { MatSnackBar } from '@angular/material/snack-bar';
+import { MatSidenav } from '@angular/material/sidenav';
 import { HttpClient } from '@angular/common/http';
 // import 'rxjs/add/operator/map';
 // import 'rxjs/add/operator/catch';
@@ -109,9 +112,9 @@ export class PersonalInterestsComponent implements AfterViewInit {
 @Component({
     template: `
     <!--div id="container" class="centerIt"-->
-        <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">            
+        <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">
             <img class="mdCardSmallDialogImg transparentProfilePic">
-            <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>            
+            <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>
         </mat-toolbar>
     <!--/div-->
     <table>
