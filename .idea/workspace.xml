@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +114,7 @@
       <workItem from="1579045363377" duration="294000" />
       <workItem from="1579972299517" duration="444000" />
       <workItem from="1580691630984" duration="306000" />
-      <workItem from="1580926801274" duration="2827000" />
+      <workItem from="1580926801274" duration="4879000" />
     </task>
     <servers />
   </component>
