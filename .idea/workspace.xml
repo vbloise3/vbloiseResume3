@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +112,7 @@
       <workItem from="1579972299517" duration="444000" />
       <workItem from="1580691630984" duration="306000" />
       <workItem from="1580926801274" duration="5977000" />
+      <workItem from="1581651990678" duration="199000" />
     </task>
     <servers />
   </component>
@@ -121,14 +120,14 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.js" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
       </list>
     </option>
   </component>
