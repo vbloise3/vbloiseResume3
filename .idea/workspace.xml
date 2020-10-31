@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/BrewsterMa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/MyMap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/assets/MyMap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -54,13 +60,16 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/vbloiseResume3Ui/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app" />
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -132,7 +141,21 @@
       <workItem from="1592332409334" duration="599000" />
       <workItem from="1593537324280" duration="307000" />
       <workItem from="1594760635438" duration="14000" />
-      <workItem from="1595436128332" duration="403000" />
+      <workItem from="1595436128332" duration="1250000" />
+      <workItem from="1596037153358" duration="599000" />
+      <workItem from="1598538270888" duration="232000" />
+      <workItem from="1598540204956" duration="372000" />
+      <workItem from="1598988074633" duration="486000" />
+      <workItem from="1599569338061" duration="243000" />
+      <workItem from="1600466860945" duration="270000" />
+      <workItem from="1600739059055" duration="496000" />
+      <workItem from="1600996797002" duration="188000" />
+      <workItem from="1601023198598" duration="95000" />
+      <workItem from="1602439727906" duration="587000" />
+      <workItem from="1602764383541" duration="563000" />
+      <workItem from="1603626489738" duration="311000" />
+      <workItem from="1603715601121" duration="161000" />
+      <workItem from="1603826575817" duration="1583000" />
     </task>
     <servers />
   </component>
@@ -165,9 +188,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577022510636">
+    <state x="660" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598987920731">
       <screen x="0" y="23" width="1920" height="999" />
     </state>
-    <state x="715" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.999@0.23.1920.999" timestamp="1577022510636" />
+    <state x="660" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.999@0.23.1920.999" timestamp="1598987920731" />
   </component>
 </project>

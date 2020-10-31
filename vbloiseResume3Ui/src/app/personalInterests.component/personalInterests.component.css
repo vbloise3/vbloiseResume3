@@ -296,6 +296,10 @@ ul {
   content: url("MountainBiking.png");
 }
 
+.brewsterMAPic {
+  content: url("BrewsterMa.png");
+}
+
 .oneWheelPic {
   content: url("RidingOneWheel.jpg")
 }
