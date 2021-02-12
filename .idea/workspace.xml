@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/BrewsterMa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/MyMap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/assets/MyMap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +151,22 @@
       <workItem from="1602764383541" duration="563000" />
       <workItem from="1603626489738" duration="311000" />
       <workItem from="1603715601121" duration="161000" />
-      <workItem from="1603826575817" duration="1583000" />
+      <workItem from="1603826575817" duration="2879000" />
+      <workItem from="1605388370930" duration="479000" />
+      <workItem from="1605392650820" duration="194000" />
+      <workItem from="1605535458894" duration="522000" />
+      <workItem from="1605619933048" duration="466000" />
+      <workItem from="1606916606472" duration="505000" />
+      <workItem from="1607807763052" duration="571000" />
+      <workItem from="1608905696892" duration="589000" />
+      <workItem from="1609626648596" duration="500000" />
+      <workItem from="1609683062970" duration="132000" />
+      <workItem from="1610054002039" duration="279000" />
+      <workItem from="1611262456375" duration="804000" />
+      <workItem from="1611623752597" duration="297000" />
+      <workItem from="1612446848486" duration="309000" />
+      <workItem from="1612791314176" duration="234000" />
+      <workItem from="1613137339071" duration="1206000" />
     </task>
     <servers />
   </component>
@@ -163,14 +174,14 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.js" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
       </list>
     </option>
   </component>
