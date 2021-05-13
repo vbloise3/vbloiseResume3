@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +173,10 @@
       <workItem from="1617934842829" duration="582000" />
       <workItem from="1617972915294" duration="598000" />
       <workItem from="1618420630512" duration="598000" />
-      <workItem from="1618496947595" duration="2534000" />
+      <workItem from="1618496947595" duration="4485000" />
+      <workItem from="1619202204087" duration="597000" />
+      <workItem from="1619286167198" duration="11000" />
+      <workItem from="1620912065361" duration="109000" />
     </task>
     <servers />
   </component>
