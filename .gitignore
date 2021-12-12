@@ -7,6 +7,7 @@
 /vbloiseResume3Ui/dist
 /vbloiseResume3Ui/tmp
 /vbloiseResume3Ui/out-tsc
+/vbloiseResume3Ui/.angular/cache
 
 # dependencies
 /vbloiseResume3Ui/node_modules

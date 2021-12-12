@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -37,12 +38,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -55,16 +57,17 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/vbloiseResume3Ui/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app" />
-      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
-      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -176,7 +179,15 @@
       <workItem from="1618496947595" duration="4485000" />
       <workItem from="1619202204087" duration="597000" />
       <workItem from="1619286167198" duration="11000" />
-      <workItem from="1620912065361" duration="109000" />
+      <workItem from="1620912065361" duration="787000" />
+      <workItem from="1621192272112" duration="8035000" />
+      <workItem from="1622561319224" duration="4829000" />
+      <workItem from="1627043267963" duration="598000" />
+      <workItem from="1630232862668" duration="19000" />
+      <workItem from="1631569089145" duration="598000" />
+      <workItem from="1631994792037" duration="598000" />
+      <workItem from="1632069762416" duration="1946000" />
+      <workItem from="1639330891404" duration="612000" />
     </task>
     <servers />
   </component>
@@ -192,6 +203,8 @@
         <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
         <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
         <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$USER_HOME$/amplify/amplify-app/node_modules/karma/config.tpl.js" />
+        <option value="$USER_HOME$/awsCert/awsCertUi/node_modules/karma/config.tpl.js" />
       </list>
     </option>
   </component>
