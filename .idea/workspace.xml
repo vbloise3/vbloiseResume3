@@ -44,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -187,7 +187,8 @@
       <workItem from="1631569089145" duration="598000" />
       <workItem from="1631994792037" duration="598000" />
       <workItem from="1632069762416" duration="1946000" />
-      <workItem from="1639330891404" duration="612000" />
+      <workItem from="1639330891404" duration="2442000" />
+      <workItem from="1647523939998" duration="280000" />
     </task>
     <servers />
   </component>
