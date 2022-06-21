@@ -256,6 +256,10 @@ ul {
   content: url("../../../../public/images/VinceBloiseTransparent.png");
 }
 
+.transparentProfilePic2 {
+  content: url("../../../../public/images/Profile_Pic_6-2022-2.png");
+}
+
 .gravitysRainbowPic {
   content: url("./GravitysRainbow.png");
 }

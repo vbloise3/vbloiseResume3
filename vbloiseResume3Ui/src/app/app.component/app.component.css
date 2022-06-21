@@ -89,6 +89,13 @@ mat-sidenav-container.m2app-dark {
   margin-top: 0.75em;
 }
 
+.mdCardImg2 {
+  width: 70px;
+  height: 78px;
+  margin: 1em;
+  margin-top: 0.75em;
+}
+
 .mdCertImg {
   width: 286px;
   height: 42px;
@@ -272,6 +279,10 @@ ul {
 
 .transparentProfilePic {
   content: url("../../../../public/images/VinceBloiseTransparent.png");
+}
+
+.transparentProfilePic2 {
+  content: url("../../../../public/images/Profile_Pic_6-2022-2.png");
 }
 
 .certPic {
