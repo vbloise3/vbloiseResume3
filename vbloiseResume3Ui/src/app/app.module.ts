@@ -64,40 +64,37 @@ const appRoutes: Routes = [
 ];
 
 @NgModule({
-  declarations: [
-    AppComponent1,
-    Material2AppAppComponent,
-    DialogContent,
-    DialogContent2,
-    AppComponent,
-    TestComponent,
-    HomeComponent,
-    PageNotFoundComponent,
-    PersonalInterestsComponent,
-    YoMoFoComponent
-  ],
-  imports: [
-    ReactiveFormsModule,
-    routing,
-    MatSidenavModule,
-    MatDialogModule,
-    MatSnackBarModule,
-    MatIconModule,
-    MatCardModule,
-    MatToolbarModule,
-    MatButtonModule,
-    FlexLayoutModule,
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-    BrowserAnimationsModule,
-    RouterModule.forRoot(
-      appRoutes,
-      { enableTracing: false } // <-- debugging purposes only
-    )
-  ],
-  entryComponents: [DialogContent, DialogContent2],
-  providers: [],
-  bootstrap: [AppComponent]
+    declarations: [
+        AppComponent1,
+        Material2AppAppComponent,
+        DialogContent,
+        DialogContent2,
+        AppComponent,
+        TestComponent,
+        HomeComponent,
+        PageNotFoundComponent,
+        PersonalInterestsComponent,
+        YoMoFoComponent
+    ],
+    imports: [
+        ReactiveFormsModule,
+        routing,
+        MatSidenavModule,
+        MatDialogModule,
+        MatSnackBarModule,
+        MatIconModule,
+        MatCardModule,
+        MatToolbarModule,
+        MatButtonModule,
+        FlexLayoutModule,
+        BrowserModule,
+        AppRoutingModule,
+        HttpClientModule,
+        BrowserAnimationsModule,
+        RouterModule.forRoot(appRoutes, { enableTracing: false } // <-- debugging purposes only
+        )
+    ],
+    providers: [],
+    bootstrap: [AppComponent]
 })
 export class AppModule { }
