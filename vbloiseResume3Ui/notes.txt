@@ -1,0 +1,30 @@
+git add .
+git commit -m "some message"
+git push -u origin master
+
+git master: https://github.com/vbloise3/vbloiseResume3.git
+
+
+#to upgrade to angular 8
+Typescript version 3.4.5
+npm update
+ng update @angular/cli @angular/core
+npm uninstall @angular-devkit/build-angular
+npm install @angular-devkit/build-angular
+
+
+npm update @angular/cli @angular/cdk rxjs
+npm install -S @angular/material @angular/cdk @angular/animations
+npm uninstall @angular/core
+npm install -S @angular/core
+
+ng update --all --force
+
+
+EC2 access
+ssh -i ~/'AWS Mgmt'/SSH/ChaliceKP.pem ec2-user@ec2-18-205-29-16.compute-1.amazonaws.com
+
+SFTP
+sftp -i ~/'AWS Mgmt'/SSH/ChaliceKP.pem ec2-user@ec2-18-205-29-16.compute-1.amazonaws.com
+
+Added new API Gateway for Developer 2022 Exam
