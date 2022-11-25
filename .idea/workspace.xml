@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/Profile_Pic_6-2022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/Profile_Pic_6-2022.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vbloiseResume3Ui" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -62,18 +56,18 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/vbloiseResume3Ui/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/images" />
-      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component" />
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/assets" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -198,7 +192,15 @@
       <workItem from="1648822324916" duration="573000" />
       <workItem from="1649864293774" duration="3457000" />
       <workItem from="1652834618587" duration="1295000" />
-      <workItem from="1653047739993" duration="3413000" />
+      <workItem from="1653047739993" duration="4773000" />
+      <workItem from="1656946657722" duration="591000" />
+      <workItem from="1656949441584" duration="580000" />
+      <workItem from="1656962382127" duration="599000" />
+      <workItem from="1657481765709" duration="591000" />
+      <workItem from="1658331597068" duration="569000" />
+      <workItem from="1658924434117" duration="2153000" />
+      <workItem from="1662757361674" duration="2748000" />
+      <workItem from="1669405721921" duration="1316000" />
     </task>
     <servers />
   </component>
@@ -206,16 +208,16 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.js" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.js" />
-        <option value="$PROJECT_DIR$/../amplify/amplify-app/node_modules/karma/config.tpl.js" />
-        <option value="$PROJECT_DIR$/../awsCert/awsCertUi/node_modules/karma/config.tpl.js" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$USER_HOME$/amplify/amplify-app/node_modules/karma/config.tpl.js" />
+        <option value="$USER_HOME$/awsCert/awsCertUi/node_modules/karma/config.tpl.js" />
       </list>
     </option>
   </component>
@@ -233,9 +235,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="660" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598987920731">
-      <screen x="0" y="23" width="1920" height="999" />
+    <state x="698" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1662203375364">
+      <screen x="0" y="25" width="1920" height="997" />
     </state>
-    <state x="660" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.999@0.23.1920.999" timestamp="1598987920731" />
+    <state x="698" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1920.997@0.25.1920.997" timestamp="1662203375364" />
   </component>
 </project>
