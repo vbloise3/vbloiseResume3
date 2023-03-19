@@ -13,6 +13,9 @@ mat-sidenav-container.m2app-dark {
 .shadowCard {
   z-index: 2;
   margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 1em;
 }
 
 .app-sidenav {
