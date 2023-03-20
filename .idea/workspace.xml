@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +207,7 @@
       <workItem from="1671564602479" duration="597000" />
       <workItem from="1674227776989" duration="1697000" />
       <workItem from="1678643400739" duration="59000" />
-      <workItem from="1678643965746" duration="1699000" />
+      <workItem from="1678643965746" duration="3038000" />
     </task>
     <servers />
   </component>

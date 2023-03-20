@@ -131,7 +131,7 @@ export class Material2AppAppComponent implements AfterViewInit {
 @Component({
     template: `
 
-          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">
+          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '114%' }" style="height: 3.15em; margin: 1em;">
               <img class="mdCardSmallDialogImg transparentProfilePic">
               <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>
           </mat-toolbar>
