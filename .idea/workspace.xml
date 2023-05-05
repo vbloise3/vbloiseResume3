@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +206,8 @@
       <workItem from="1671564602479" duration="597000" />
       <workItem from="1674227776989" duration="1697000" />
       <workItem from="1678643400739" duration="59000" />
-      <workItem from="1678643965746" duration="3038000" />
+      <workItem from="1678643965746" duration="3979000" />
+      <workItem from="1680386633416" duration="946000" />
     </task>
     <servers />
   </component>
@@ -215,16 +215,16 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.js" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.js" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.d.ts" />
-        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.js" />
-        <option value="$PROJECT_DIR$/../amplify/amplify-app/node_modules/karma/config.tpl.js" />
-        <option value="$PROJECT_DIR$/../awsCert/awsCertUi/node_modules/karma/config.tpl.js" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$USER_HOME$/amplify/amplify-app/node_modules/karma/config.tpl.js" />
+        <option value="$USER_HOME$/awsCert/awsCertUi/node_modules/karma/config.tpl.js" />
       </list>
     </option>
   </component>
