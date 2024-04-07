@@ -20,7 +20,7 @@
             "outputPath": "dist/vbloiseResume3Ui",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "polyfills": "src/polyfills.ts",
+            "polyfills": ["zone.js"],
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
@@ -71,25 +71,25 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "vbloiseResume3Ui:build"
+            "buildTarget": "vbloiseResume3Ui:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "vbloiseResume3Ui:build:production"
+              "buildTarget": "vbloiseResume3Ui:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "vbloiseResume3Ui:build"
+            "buildTarget": "vbloiseResume3Ui:build"
           }
         },
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
             "main": "src/test.ts",
-            "polyfills": "src/polyfills.ts",
+            "polyfills": ["zone.js"],
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [

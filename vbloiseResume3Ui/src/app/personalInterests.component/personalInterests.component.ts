@@ -25,7 +25,7 @@ import { Router, Routes, RouterModule } from '@angular/router';
 export class PersonalInterestsComponent implements AfterViewInit {
     isDarkTheme: boolean = false;
     lastDialogResult: string;
-    myEmail: string = 'vbloise3@gmail.com';
+    myEmail: string = 'vbloise3&#64;gmail.com';
 
     products: Observable<Array<string>>;
     errorMessage: string;
@@ -119,7 +119,7 @@ export class PersonalInterestsComponent implements AfterViewInit {
     <!--/div-->
     <table>
         <tr [class.App-buttons-mobile]='deviceWidthCss == "App-name-mobile"'>
-          <td><a href="mailto:vbloise3@gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>vbloise3@gmail.com</a></td>
+          <td><a href="mailto:vbloise3&#64;gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>vbloise3&#64;gmail.com</a></td>
           <td><a href="tel:484-433-3269" style="color: blue"><i class="material-icons md-18 iconBottom">phone_iphone</i>484-433-3269</a></td>
         </tr>
     </table>
