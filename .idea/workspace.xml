@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="171f7b6e-1ace-4e2f-8a18-982d8fe25033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
@@ -221,7 +220,12 @@
       <workItem from="1700330291098" duration="883000" />
       <workItem from="1705413029013" duration="1294000" />
       <workItem from="1705415096298" duration="594000" />
-      <workItem from="1710191956887" duration="2176000" />
+      <workItem from="1710191956887" duration="4735000" />
+      <workItem from="1716655109461" duration="1601000" />
+      <workItem from="1732464800682" duration="584000" />
+      <workItem from="1732471624577" duration="597000" />
+      <workItem from="1733856326534" duration="598000" />
+      <workItem from="1734286341500" duration="1433000" />
     </task>
     <servers />
   </component>

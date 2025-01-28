@@ -138,7 +138,7 @@ export class Material2AppAppComponent implements AfterViewInit {
           <table>
               <tr [class.App-buttons-mobile]='deviceWidthCss == "App-name-mobile"'>
                 <td><a href="mailto:vbloise3&#64;gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>vbloise3&#64;gmail.com</a></td>
-                <td><a href="tel:484-433-3269" style="color: blue"><i class="material-icons md-18 iconBottom">phone_iphone</i>484-433-3269</a></td>
+                <td><a href="tel:610-645-4355" style="color: blue"><i class="material-icons md-18 iconBottom">phone_iphone</i>610-645-4355</a></td>
               </tr>
           </table>
           <div class="centerIt2">
